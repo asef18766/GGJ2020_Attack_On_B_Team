@@ -1,0 +1,6 @@
+[submodule "GGJ2020_Attack_On_B_Team-server"]
+	path = GGJ2020_Attack_On_B_Team-server
+	url = https://github.com/asef18766/GGJ2020_Attack_On_B_Team-server.git
+[submodule "GGJ2020_Attack_On_B_Team-frontEnd"]
+	path = GGJ2020_Attack_On_B_Team-frontEnd
+	url = https://github.com/asef18766/GGJ2020_Attack_On_B_Team-frontEnd.git
